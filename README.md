@@ -1,2 +1,2 @@
 # DAYS
-creat now
+creat now 1
